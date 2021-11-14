@@ -79,7 +79,7 @@ With Dire Maul available on release, hunters in Season of Mastery have plenty of
 
 | Gear set and sixtyupgrades link                              | DPS (ranged) | DPS (weaving)            |
 | ------------------------------------------------------------ | ------------ | ------------------------ |
-| [P1 BiS](https://sixtyupgrades.com/set/bYhKg7axKXoFVDGenekYJo) | 624          | 669 (671 with Lok'delar) |
+| [P1 BiS](https://sixtyupgrades.com/set/bYhKg7axKXoFVDGenekYJo) | 625          | 692 (696 with Lok'delar) |
 | [P1 R13 PvP Preraid](https://sixtyupgrades.com/set/rNHFMjMLHYxNCxFGLjrZsc) | 612          | 673                      |
 | [P1 R12 PvP Preraid](https://sixtyupgrades.com/set/6fXmr9wMNrR9La9p4PTCZN) | 602          | 663                      |
 | [P1 Tier 1 8/8](https://sixtyupgrades.com/set/jUw2BaNbxr1NrJfJ6grAzW) | 606          | 657                      |
@@ -109,16 +109,16 @@ This also holds for one-handed melee weapons like https://classic.wowhead.com/it
 
 For comparing items on databases like sixtyupgrades, the stat weights for hunters in phase 1 are roughly:
 
-| Stat                     | Weight                   |
-| ------------------------ | ------------------------ |
-| 1 AP                     | 1                        |
-| 1 Agility                | 2.8 alliance / 2.5 horde |
-| 1% Crit                  | 28                       |
-| 1% Hit                   | 22                       |
-| 1 Ranged Weapon DPS      | 40                       |
-| +0.1 Ranged Weapon Speed | 120                      |
+| Stat                     | Weight with preraid gear | Weight with BiS set        |
+| ------------------------ | ------------------------ | -------------------------- |
+| 1 AP                     | 1                        | 1                          |
+| 1 Agility                | 2.8 alliance / 2.5 horde | 2.95 alliance / 2.65 horde |
+| 1% Crit                  | 28                       | 35                         |
+| 1% Hit                   | 22                       | 0 (hit capped)             |
+| 1 Ranged Weapon DPS      | 40                       | 40                         |
+| +0.1 Ranged Weapon Speed | 120                      | 135                        |
 
-Keep in mind that stat weights change as your gear changes, so this should only be used for small upgrades from the sets shown above.
+Keep in mind that stat weights change as your gear changes, so this should only be used for small upgrades from the sets shown above, as can be seen for the two different weights shown here.
 
 The last row shows why https://classic.wowhead.com/item=19107/bloodseeker is so good: Hunter dps scales nicely with weapon speed as this reduces clipping of the https://classic.wowhead.com/spell=75/auto-shot following your https://classic.wowhead.com/spell=20904/aimed-shot.
 
@@ -129,3 +129,4 @@ The last row shows why https://classic.wowhead.com/item=19107/bloodseeker is so 
 Thanks go out to all those contributing the content listed in the useful links section.
 
 If you feel like something is missing, feel free to contact Diziet#0189 on the [Classic & TBC Hunter discord](https://discord.gg/classichunter).
+
