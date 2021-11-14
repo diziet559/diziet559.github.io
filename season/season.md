@@ -1,3 +1,6 @@
+---
+title: Hunter notes for Season of Mastery
+---
 ## Hunter notes for Season of Mastery
 
 ### Pet progression
@@ -29,7 +32,7 @@ With Dire Maul available on release, hunters in Season of Mastery have plenty of
 
 #### Biggest upgrades in phase 1
 
-Obviously, https://classic.wowhead.com/item=18713/rhokdelar-longbow-of-the-ancient-keepers is the one item most hunters will want out of Molten Core. Keep in mind though that with https://classic.wowhead.com/item=19107/bloodseeker we have a very solid pre-raid weapon available that is only 5-10 dps behind Rhok'delar due to the difference in weapon speed.
+Obviously, https://classic.wowhead.com/item=18713/rhokdelar-longbow-of-the-ancient-keepers is the one item most hunters will want out of Molten Core. Keep in mind though that with https://classic.wowhead.com/item=19107/bloodseeker we have a very solid pre-raid weapon available that is only 5-10 dps behind Rhok'delar due to the difference in weapon speed. https://classic.wowhead.com/item=18715/lokdelar-stave-of-the-ancient-keepers is a solid melee weaving weapon despite its lacking stats. Compared to https://classic.wowhead.com/item=18520/barbarous-blade, Lok'delar will give you more damage to your melee hits while giving slightly worse stats for ranged attacks. Once players progress further into the T0.5 quest line, https://classic.wowhead.com/item=22314/huntsmans-harpoon is the best phase 1 melee weaving weapon. It drops off the summoned T0.5 quest boss in Dire Maul East.
 
 If you do not aim for tier set completion, https://classic.wowhead.com/item=18812/wristguards-of-true-flight are a big upgrade over other options available for the wrist slot.
 
@@ -40,3 +43,17 @@ The tier 1 set is also a very solid option for gearing, especially the 8-piece s
 In any case, do not take https://classic.wowhead.com/item=17063/band-of-accuria or https://classic.wowhead.com/item=18821/quick-strike-ring away from your melee players. While these two rings are technically the best rings for hunters in phase 1, they get quickly replaced and should be better left for those who will use them for longer.
 
 This also holds for one-handed melee weapons like https://classic.wowhead.com/item=18832/brutality-blade and https://classic.wowhead.com/item=18805/core-hound-tooth as rogues and fury warriors can gain more from using them. You should also be melee weaving in any case, for which you need a two-handed weapon.
+
+### Stat weights
+
+For comparing items on databases like sixtyupgrades, the stat weights for hunters in phase 1 are roughly:
+
+| Stat                     | Weight                   |
+| ------------------------ | ------------------------ |
+| 1 AP                     | 1                        |
+| 1 Agility                | 2.8 alliance / 2.5 horde |
+| 1% Crit                  | 28                       |
+| 1% Hit                   | 22                       |
+| 1 Ranged Weapon DPS      | 40                       |
+| +0.1 Ranged Weapon Speed | 120                      |
+
