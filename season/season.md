@@ -8,6 +8,7 @@ title: Hunter notes for Season of Mastery
 ### Guides and videos
 
 - [Classic & TBC Hunter discord](https://discord.gg/classichunter)
+- [WatchYourSixx' Hunter Sim Spreadsheet](https://docs.google.com/spreadsheets/d/1BIlB2P1kyV_QdD4ULQzvZvS6hK6BDouUQkyHQzCvBGI/edit?usp=drivesdk)
 - [Petopia Classic](https://www.wow-petopia.com/classic/)
 - [Bouk's supplementary hunter guide](https://boukx.github.io/guide/)
 - [Bouk's phase 6 guide](https://boukx.github.io/phase6/)
@@ -74,13 +75,16 @@ If you encounter mana issues, your options are:
 
 With Dire Maul available on release, hunters in Season of Mastery have plenty of gearing options.
 
-| Gear set and sixtyupgrades link                              |      |
-| ------------------------------------------------------------ | ---- |
-| [P1 Realistic Preraid BiS](https://sixtyupgrades.com/set/mjj8hc9mkaCKVVMzBSGDB) |      |
-| [P1 6/8 Dungeon 2 Set](https://sixtyupgrades.com/set/uhYzivnfyBpUm4zFKMiCFk) |      |
-| [P1 R10 PvP Preraid](https://sixtyupgrades.com/set/uixQvZAw1U937rDKrYA6xi) |      |
-| [P1 R12 PvP Preraid](https://sixtyupgrades.com/set/6fXmr9wMNrR9La9p4PTCZN) |      |
-| [P1 R13 PvP Preraid](https://sixtyupgrades.com/set/rNHFMjMLHYxNCxFGLjrZsc) |      |
+| Gear set and sixtyupgrades link                              | DPS (ranged) | DPS (weaving)            |
+| ------------------------------------------------------------ | ------------ | ------------------------ |
+| [P1 R13 PvP Preraid](https://sixtyupgrades.com/set/rNHFMjMLHYxNCxFGLjrZsc) | 612          | 673                      |
+| [P1 R12 PvP Preraid](https://sixtyupgrades.com/set/6fXmr9wMNrR9La9p4PTCZN) | 602          | 663                      |
+| [P1 R10 PvP Preraid](https://sixtyupgrades.com/set/uixQvZAw1U937rDKrYA6xi) | 594          | 655                      |
+| [P1 Realistic Preraid BiS](https://sixtyupgrades.com/set/mjj8hc9mkaCKVVMzBSGDB) | 576          | 635                      |
+| [P1 6/8 Dungeon 2 Set](https://sixtyupgrades.com/set/uhYzivnfyBpUm4zFKMiCFk) | 570          | 626                      |
+| [P1 BiS](https://sixtyupgrades.com/set/bYhKg7axKXoFVDGenekYJo) with 20/31/0 spec | 678          | 723 (725 with Lok'delar) |
+
+All preraid sets were simulated with a 2/31/18 spec to get closer to hit cap, while 20/31/0 offers slightly higher dps **if pets stay alive** and at the expense of missing a few shots which might be especially unpleasant with Magmadar for https://classic.wowhead.com/spell=19801/tranquilizing-shot.
 
 #### Biggest upgrades in phase 1
 
