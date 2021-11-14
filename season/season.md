@@ -18,6 +18,28 @@ To get and upgrade your https://classic.wowhead.com/spell=24579/screech ability,
 
 For ranks 2 and 3 there are also other choices, but those listed here are the first available. For more information on pets in general, see [Petopia Classic](https://www.wow-petopia.com/classic/).
 
+### Leveling rotation
+
+- You can try the raiding rotation outlined below, but usually mobs die too quickly and you run out of mana too quickly to really do this while leveling
+- https://classic.wowhead.com/spell=14325/hunters-mark is usually not worth its mana cost unless you are fighting elite mobs.
+- When leveling as Beastmaster, you don't have access to https://classic.wowhead.com/spell=20904/aimed-shot for a long time. https://classic.wowhead.com/spell=14287/arcane-shot is usually also not worth its mana cost
+- If mobs live long enough, you can place https://classic.wowhead.com/spell=25295/serpent-sting on them
+- You can have your pet tank one (or more with https://classic.wowhead.com/spell=24579/screech) mob(s), shoot this mob and weave in melee hits on another mob that is targeting you. Keep in mind that you do take damage yourself in this case.
+
+### Raiding rotation
+
+![Simple raiding rotation](mw-simple.png)
+
+Basically, you use special attacks in the downtime between each https://classic.wowhead.com/spell=75/auto-shot. The highest priority is https://classic.wowhead.com/spell=20904/aimed-shot, followed by https://classic.wowhead.com/spell=14290/multi-shot and melee weaving with https://classic.wowhead.com/spell=14266/raptor-strike. Because this is just a bit short of 10 seconds, https://classic.wowhead.com/spell=14290/multi-shot will still be on cooldown in the next repitition, so that it gets delayed with a bit with every rotation. Usually on the third rotation, you can melee weave one cycle earlier and after 4 rotations you have to delay the https://classic.wowhead.com/spell=14290/multi-shot until after the next https://classic.wowhead.com/spell=20904/aimed-shot, so that the full rotation looks roughly like this:
+
+![4 rotation cycles with Multi-Shot delay](mw-rotation.png)
+
+If you encounter mana issues, your options are:
+
+1. down-rank https://classic.wowhead.com/spell=2973/raptor-strike
+2. down-rank https://classic.wowhead.com/spell=2643/multi-shot (single-target fights)
+3. replace https://classic.wowhead.com/spell=2973/raptor-strike with melee white hits
+
 ### Gear progression
 
 With Dire Maul available on release, hunters in Season of Mastery have plenty of gearing options.
@@ -40,6 +62,8 @@ The single biggest upgrade in phase 1 will be the https://classic.wowhead.com/it
 
 The tier 1 set is also a very solid option for gearing, especially the 8-piece set bonus is a large dps boost. Keep in mind that with Season of Mastery's faster phase progression your raid will be hard pressed to give the full set to many hunters. The same goes for the two pieces of the tier 2 set that are available in phase 1 - get your hands on them if you can, but don't count on completing the set before it becomes obsolete.
 
+#### Items you should not want
+
 In any case, do not take https://classic.wowhead.com/item=17063/band-of-accuria or https://classic.wowhead.com/item=18821/quick-strike-ring away from your melee players. While these two rings are technically the best rings for hunters in phase 1, they get quickly replaced and should be better left for those who will use them for longer.
 
 This also holds for one-handed melee weapons like https://classic.wowhead.com/item=18832/brutality-blade and https://classic.wowhead.com/item=18805/core-hound-tooth as rogues and fury warriors can gain more from using them. You should also be melee weaving in any case, for which you need a two-handed weapon.
@@ -57,3 +81,4 @@ For comparing items on databases like sixtyupgrades, the stat weights for hunter
 | 1 Ranged Weapon DPS      | 40                       |
 | +0.1 Ranged Weapon Speed | 120                      |
 
+The last row shows why https://classic.wowhead.com/item=19107/bloodseeker is so good: Hunter dps scales nicely with weapon speed as this reduces clipping of the https://classic.wowhead.com/spell=75/auto-shot following your https://classic.wowhead.com/spell=20904/aimed-shot.
