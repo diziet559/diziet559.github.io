@@ -77,14 +77,15 @@ With Dire Maul available on release, hunters in Season of Mastery have plenty of
 
 | Gear set and sixtyupgrades link                              | DPS (ranged) | DPS (weaving)            |
 | ------------------------------------------------------------ | ------------ | ------------------------ |
+| [P1 BiS](https://sixtyupgrades.com/set/bYhKg7axKXoFVDGenekYJo) | 624          | 669 (671 with Lok'delar) |
 | [P1 R13 PvP Preraid](https://sixtyupgrades.com/set/rNHFMjMLHYxNCxFGLjrZsc) | 612          | 673                      |
 | [P1 R12 PvP Preraid](https://sixtyupgrades.com/set/6fXmr9wMNrR9La9p4PTCZN) | 602          | 663                      |
+| [P1 Tier 1 8/8](https://sixtyupgrades.com/set/jUw2BaNbxr1NrJfJ6grAzW) | 606          | 657                      |
 | [P1 R10 PvP Preraid](https://sixtyupgrades.com/set/uixQvZAw1U937rDKrYA6xi) | 594          | 655                      |
 | [P1 Realistic Preraid BiS](https://sixtyupgrades.com/set/mjj8hc9mkaCKVVMzBSGDB) | 576          | 635                      |
 | [P1 6/8 Dungeon 2 Set](https://sixtyupgrades.com/set/uhYzivnfyBpUm4zFKMiCFk) | 570          | 626                      |
-| [P1 BiS](https://sixtyupgrades.com/set/bYhKg7axKXoFVDGenekYJo) with 20/31/0 spec | 678          | 723 (725 with Lok'delar) |
 
-All preraid sets were simulated with a 2/31/18 spec to get closer to hit cap, while 20/31/0 offers slightly higher dps **if pets stay alive** and at the expense of missing a few shots which might be especially unpleasant with Magmadar for https://classic.wowhead.com/spell=19801/tranquilizing-shot.
+All preraid sets were simulated with a 2/31/18 spec to get closer to hit cap, while 20/31/0 offers an increase of around 50 dps **if pets stay alive** and at the expense of missing a few shots which might be especially unpleasant with Magmadar for https://classic.wowhead.com/spell=19801/tranquilizing-shot. Replacing the https://classic.wowhead.com/item=10548/sniper-scope with a https://classic.wowhead.com/item=18283/biznicks-247x128-accurascope will allow you to switch the spec without losing hit, but due to the prohibitive cost this should only be advised after obtaining your first raid weapon.
 
 #### Biggest upgrades in phase 1
 
