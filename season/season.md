@@ -34,6 +34,12 @@ Basically, you use special attacks in the downtime between each https://classic.
 
 <img src="mw-rotation.png" alt="4 rotation cycles with Multi-Shot delay" style="zoom:33%;" />
 
+This gets changed up a bit with procs of https://classic.wowhead.com/spell=19556/improved-aspect-of-the-hawk as this hastens your https://classic.wowhead.com/spell=75/auto-shot as well as your https://classic.wowhead.com/spell=20904/aimed-shot casts, but does not reduce your spell cooldowns. In this case, just use the highest priority ability from your list:
+
+1. https://classic.wowhead.com/spell=20904/aimed-shot
+2. https://classic.wowhead.com/spell=14290/multi-shot
+3. https://classic.wowhead.com/spell=14266/raptor-strike
+
 If you encounter mana issues, your options are:
 
 1. down-rank https://classic.wowhead.com/spell=2973/raptor-strike
