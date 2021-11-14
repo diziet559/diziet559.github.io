@@ -28,11 +28,11 @@ For ranks 2 and 3 there are also other choices, but those listed here are the fi
 
 ### Raiding rotation
 
-<img src="mw-simple.png" alt="Simple raiding rotation" style="zoom:33%;" />
+<img src="mw-simple.png" alt="Simple raiding rotation" width="800px" />
 
 Basically, you use special attacks in the downtime between each https://classic.wowhead.com/spell=75/auto-shot. The highest priority is https://classic.wowhead.com/spell=20904/aimed-shot, followed by https://classic.wowhead.com/spell=14290/multi-shot and melee weaving with https://classic.wowhead.com/spell=14266/raptor-strike. Because this is just a bit short of 10 seconds, https://classic.wowhead.com/spell=14290/multi-shot will still be on cooldown in the next repitition, so that it gets delayed with a bit with every rotation. Usually on the third rotation, you can melee weave one cycle earlier and after 4 rotations you have to delay the https://classic.wowhead.com/spell=14290/multi-shot until after the next https://classic.wowhead.com/spell=20904/aimed-shot, so that the full rotation looks roughly like this:
 
-<img src="mw-rotation.png" alt="4 rotation cycles with Multi-Shot delay" style="zoom:33%;" />
+<img src="mw-rotation.png" alt="4 rotation cycles with Multi-Shot delay" width="800px" />
 
 This gets changed up a bit with procs of https://classic.wowhead.com/spell=19556/improved-aspect-of-the-hawk as this hastens your https://classic.wowhead.com/spell=75/auto-shot as well as your https://classic.wowhead.com/spell=20904/aimed-shot casts, but does not reduce your spell cooldowns. In this case, just use the highest priority ability from your list:
 
