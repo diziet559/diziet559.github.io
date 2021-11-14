@@ -122,3 +122,10 @@ Keep in mind that stat weights change as your gear changes, so this should only 
 
 The last row shows why https://classic.wowhead.com/item=19107/bloodseeker is so good: Hunter dps scales nicely with weapon speed as this reduces clipping of the https://classic.wowhead.com/spell=75/auto-shot following your https://classic.wowhead.com/spell=20904/aimed-shot.
 
+---
+
+### Acknowledgement
+
+Thanks go out to all those contributing the content listed in the useful links section.
+
+If you feel like something is missing, feel free to contact Diziet#0189 on the [Classic & TBC Hunter discord](https://discord.gg/classichunter).
