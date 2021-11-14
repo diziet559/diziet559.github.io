@@ -71,6 +71,8 @@ If you encounter mana issues, your options are:
 2. down-rank https://classic.wowhead.com/spell=2643/multi-shot (single-target fights)
 3. replace https://classic.wowhead.com/spell=2973/raptor-strike with melee white hits
 
+Down-ranking the melee weaves lets them remain special attacks, thus not suffering from glancing blows. If you have to omit the https://classic.wowhead.com/spell=2973/raptor-strike and use white hits instead, melee damage will suffer from the severe reduction of glancing blows.
+
 ### Gear progression
 
 With Dire Maul available on release, hunters in Season of Mastery have plenty of gearing options.
