@@ -1,6 +1,3 @@
-<script>const whTooltips = {colorLinks: true, iconizeLinks: true, renameLinks: true};</script>
-<script src="https://wow.zamimg.com/widgets/power.js"></script>
-
 ## Hunter notes for Season of Mastery
 
 ### Pet progression
