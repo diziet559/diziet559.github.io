@@ -3,6 +3,30 @@ title: Hunter notes for Season of Mastery
 ---
 ## Hunter notes for Season of Mastery
 
+## Useful links
+
+### Guides and videos
+
+- [Classic & TBC Hunter discord](https://discord.gg/classichunter)
+- [Petopia Classic](https://www.wow-petopia.com/classic/)
+- [Bouk's supplementary hunter guide](https://boukx.github.io/guide/)
+- [Bouk's phase 6 guide](https://boukx.github.io/phase6/)
+- [Sixx' weaving guide: Raptor Strike and you](https://www.reddit.com/r/classicwow/comments/fh6ofy/raptor_strike_and_you_a_detailed_analysis_and/)
+- [zeroji DM:T speedrun](https://www.twitch.tv/videos/765188893)
+- [zeroji DM:T safe run](https://www.youtube.com/watch?v=Lzvq5kZMo4U)
+- [my own DM:T run](https://www.youtube.com/watch?v=rDsMcZuMUlY) and [on a lvl 56 hunter](https://www.youtube.com/watch?v=7uRzutJf45w)
+
+### WeakAuras
+
+- [Rat's Hunter Range Badges](https://wago.io/Wxr2Iku2b)
+- [Rat's Hunter Raid Debuff Tracker](https://wago.io/90FK66Stl)
+- [Hunter Efficiency Timer](https://wago.io/oYIjS228K)
+- [Weave Component Timer](https://wago.io/oBjregGjL)
+- [Predictive Weave Bar](https://wago.io/K6nl2clmn)
+- [bouk's Castbar](https://discord.com/channels/253213664708919296/253944545429946369/908384262183604236) on Hunter Discord, wago.io version is broken
+
+## Additional notes
+
 ### Pet progression
 
 Best pet for solo stuff, instances and raids is any type of (flying) bird for https://classic.wowhead.com/spell=24579/screech. This is great for solo play due to its high threat generation and AP reduction to enemies, which reduces incoming damage to the tank (or your pet in solo play). The natural choices for pets thus are an owl for alliance that can be tamed in Teldrassil, or a bat for horde that can be found in Tirisfal Glades.
@@ -90,3 +114,4 @@ For comparing items on databases like sixtyupgrades, the stat weights for hunter
 Keep in mind that stat weights change as your gear changes, so this should only be used for small upgrades from the sets shown above.
 
 The last row shows why https://classic.wowhead.com/item=19107/bloodseeker is so good: Hunter dps scales nicely with weapon speed as this reduces clipping of the https://classic.wowhead.com/spell=75/auto-shot following your https://classic.wowhead.com/spell=20904/aimed-shot.
+
