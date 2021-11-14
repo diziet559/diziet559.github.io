@@ -81,4 +81,6 @@ For comparing items on databases like sixtyupgrades, the stat weights for hunter
 | 1 Ranged Weapon DPS      | 40                       |
 | +0.1 Ranged Weapon Speed | 120                      |
 
+Keep in mind that stat weights change as your gear changes, so this should only be used for small upgrades from the sets shown above.
+
 The last row shows why https://classic.wowhead.com/item=19107/bloodseeker is so good: Hunter dps scales nicely with weapon speed as this reduces clipping of the https://classic.wowhead.com/spell=75/auto-shot following your https://classic.wowhead.com/spell=20904/aimed-shot.
