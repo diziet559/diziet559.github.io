@@ -87,6 +87,8 @@ With Dire Maul available on release, hunters in Season of Mastery have plenty of
 | [P1 Realistic Preraid BiS](https://sixtyupgrades.com/set/mjj8hc9mkaCKVVMzBSGDB) | 576          | 635                      |
 | [P1 6/8 Dungeon 2 Set](https://sixtyupgrades.com/set/uhYzivnfyBpUm4zFKMiCFk) | 570          | 626                      |
 
+Although the Dungeon 2 set is in the game from release it is not the best pre-raid gear achievable for hunters. Using https://classic.wowhead.com/item-set=143/devilsaur-armor and select pieces from Dire Maul and other instances yields better dps. Nevertheless, especially for solo play, the unique pet bonuses of the Dungeon 2 set can be relevant.
+
 All preraid sets were simulated with a 2/31/18 spec to get closer to hit cap, while 20/31/0 offers an increase of around 50 dps **if pets stay alive** and at the expense of missing a few shots which might be especially unpleasant with Magmadar for https://classic.wowhead.com/spell=19801/tranquilizing-shot. Replacing the https://classic.wowhead.com/item=10548/sniper-scope with a https://classic.wowhead.com/item=18283/biznicks-247x128-accurascope will allow you to switch the spec without losing hit, but due to the prohibitive cost this should only be advised after obtaining your first raid weapon.
 
 #### Biggest upgrades in phase 1
