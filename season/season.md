@@ -77,15 +77,20 @@ Down-ranking the melee weaves lets them remain special attacks, thus not sufferi
 
 With Dire Maul available on release, hunters in Season of Mastery have plenty of gearing options.
 
-| Gear set and sixtyupgrades link                              | DPS (ranged) | DPS (weaving)            |
-| ------------------------------------------------------------ | ------------ | ------------------------ |
-| [P1 BiS](https://sixtyupgrades.com/set/bYhKg7axKXoFVDGenekYJo) | 625          | 692 (696 with Lok'delar) |
-| [P1 R13 PvP Preraid](https://sixtyupgrades.com/set/rNHFMjMLHYxNCxFGLjrZsc) | 612          | 673                      |
-| [P1 R12 PvP Preraid](https://sixtyupgrades.com/set/6fXmr9wMNrR9La9p4PTCZN) | 602          | 663                      |
-| [P1 Tier 1 8/8](https://sixtyupgrades.com/set/jUw2BaNbxr1NrJfJ6grAzW) | 606          | 657                      |
-| [P1 R10 PvP Preraid](https://sixtyupgrades.com/set/uixQvZAw1U937rDKrYA6xi) | 594          | 655                      |
-| [P1 Realistic Preraid BiS](https://sixtyupgrades.com/set/mjj8hc9mkaCKVVMzBSGDB) | 576          | 635                      |
-| [P1 6/8 Dungeon 2 Set](https://sixtyupgrades.com/set/uhYzivnfyBpUm4zFKMiCFk) | 570          | 626                      |
+| Gear set                                                     | DPS (normal) | DPS (weaving) |
+| ------------------------------------------------------------ | ------------ | ------------- |
+| [True R13](https://sixtyupgrades.com/set/twGvoaHf1axk2htRuFNYZw) | 692          | 745           |
+| [Realistic R13](https://sixtyupgrades.com/set/vftXpGC6YbEEuyaqD9kXKb) | 690          | 742           |
+| [Realistic R12+WSG](https://sixtyupgrades.com/set/nz6PD3musdaiJk7BCPWiVV) | 686          | 739           |
+| [Realistic R12](https://sixtyupgrades.com/set/m6tbs18Fg3eUybU5C6x1Br) | 680          | 732           |
+| [Realistic R10 + D3 Boots](https://sixtyupgrades.com/set/q7Q76Jeme7FFbMLdEmN4ue) | 678          | 730           |
+| [Realistic R10](https://sixtyupgrades.com/set/88kjyYHyQWJ17RTKDZHcHc) | 675          | 727           |
+| [Realistic T1 8/8](https://sixtyupgrades.com/set/2s5fDJXjowAkVe2V9Qq8AE) | 674          | 725           |
+| [Preraid R10 + Rhok'delar](https://sixtyupgrades.com/set/pdH2Sq7nLqhtmftxsCRicn) | 660          | 713           |
+| [Preraid R10](https://sixtyupgrades.com/set/sAstCzejYx6QG9W5JKPMvo) | 654          | 707           |
+| [Preraid R8](https://sixtyupgrades.com/set/ii3iY1yPZpreFJjyz337hV) | 648          | 698           |
+| [Preraid D2 6/8](https://sixtyupgrades.com/set/uhYzivnfyBpUm4zFKMiCFk) | 636          | 680           |
+| [Preraid no-PvP no-D2 no-Summon](https://sixtyupgrades.com/set/mjj8hc9mkaCKVVMzBSGDB) | 633          | 679           |
 
 Although the Dungeon 2 set is in the game from release it is not the best pre-raid gear achievable for hunters. Using https://classic.wowhead.com/item-set=143/devilsaur-armor and select pieces from Dire Maul and other instances yields better dps. Nevertheless, especially for solo play, the unique pet bonuses of the Dungeon 2 set can be relevant.
 
